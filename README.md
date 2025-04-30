@@ -34,6 +34,8 @@
 ![Algorithms](https://img.shields.io/badge/-Algorithms-FFA500?style=flat)
 ![OOP](https://img.shields.io/badge/-OOP-3399FF?style=flat)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6347?style=flat)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
 
 
 
