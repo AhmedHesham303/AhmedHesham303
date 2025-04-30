@@ -35,6 +35,8 @@
 ![OOP](https://img.shields.io/badge/-OOP-3399FF?style=flat)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6347?style=flat)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 
 
 
