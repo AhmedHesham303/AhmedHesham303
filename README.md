@@ -48,6 +48,17 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhesham24700956&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham24700956&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedhesham24700956&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+
 
 
 
