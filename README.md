@@ -37,6 +37,11 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Relational Databases](https://img.shields.io/badge/-Relational%20Databases-003B57?style=flat&logo=database&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
 
 
 
