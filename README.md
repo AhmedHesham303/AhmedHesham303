@@ -14,6 +14,8 @@
 - 🏢 I'm a Senior computer science student at FCAI(faculty of computers and artificial intelligence) Cairo University.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🏢 solved over 500 problems on diffrent platforms as leetcode and codeforces
+- 🏢 Built 10+ high quality websites
+
 
 
 ### Connect with Me :
