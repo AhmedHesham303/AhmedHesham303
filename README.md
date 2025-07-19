@@ -10,7 +10,6 @@
 </p>
 -->
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
@@ -22,7 +21,8 @@
 - 🏫 I'm a Senior computer science student at FCAI (Faculty of Computers and Artificial Intelligence), Cairo University.  
 - 💻 Constantly exploring new technologies and sharpening my skills as a CS student.  
 - 🧠 Solved over 500 problems on platforms like LeetCode and Codeforces.  
-- 🌐 Built 10+ high-quality websites.
+- 🌐 Built 10+ high-quality websites.  
+- ⚛️ Currently diving deeper into **React Hooks** and **React Router** to level up my React skills.
 
 ---
 
@@ -46,6 +46,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
