@@ -22,7 +22,6 @@
 - 💻 Constantly exploring new technologies and sharpening my skills as a CS student.  
 - 🧠 Solved over 500 problems on platforms like LeetCode and Codeforces.  
 - 🌐 Built 10+ high-quality websites.  
-- ⚛️ Currently diving deeper into **React Hooks** and **React Router** to level up my React skills.
 
 ---
 
