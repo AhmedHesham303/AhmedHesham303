@@ -1,3 +1,44 @@
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
+  Welcome to Ahmed Hesham's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!--<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedHesham303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Badge" />
+</p>
+-->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</p> 
+
+---
+
+- 🏫 I'm a Senior computer science student at FCAI (Faculty of Computers and Artificial Intelligence), Cairo University.  
+- 💻 Constantly exploring new technologies and sharpening my skills as a CS student.  
+- 🧠 Solved over 500 problems on platforms like LeetCode and Codeforces.  
+- 🌐 Built 10+ high-quality websites.  
+
+---
+
+### 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/ahmed-hesham-454440221/" target="_blank">
+  <img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://www.frontendmentor.io/profile/AhmedHesham303" target="_blank">
+  <img src="https://img.shields.io/badge/-Frontend%20Mentor-000000?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor Profile"/>
+</a>
+<a href="https://leetcode.com/u/ahmedhesham24700956/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode">
+</a>
+
+---
+
 ### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -30,3 +71,16 @@
 ![Relational Databases](https://img.shields.io/badge/-Relational%20Databases-003B57?style=flat&logo=database&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+
+---
+
+### 📊 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHesham303&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHesham303&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedHesham303&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+---
