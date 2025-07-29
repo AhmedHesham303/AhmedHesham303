@@ -49,10 +49,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-React%20Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Formik](https://img.shields.io/badge/-Formik-02569B?style=flat&logo=formik&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -69,7 +66,6 @@
 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Relational Databases](https://img.shields.io/badge/-Relational%20Databases-003B57?style=flat&logo=database&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 
