@@ -50,6 +50,9 @@
 ![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Context API](https://img.shields.io/badge/-Context%20API-333333?style=flat&logo=react&logoColor=61DAFB)
+![Formik](https://img.shields.io/badge/-Formik-02569B?style=flat&logo=formik&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
