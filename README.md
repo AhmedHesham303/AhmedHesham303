@@ -47,6 +47,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat&logo=react&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+
 ![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
@@ -57,6 +61,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat&logo=sql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
