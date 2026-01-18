@@ -17,8 +17,8 @@
 </p> 
 
 ---
-
-- 🏫 I'm a Senior computer science student at FCAI (Faculty of Computers and Artificial Intelligence), Cairo University.  
+- 💻 Frontend engineer @Softigital.  
+- 🏫 Graduated from FCAI (Faculty of Computers and Artificial Intelligence), Cairo University.  
 - 💻 Constantly exploring new technologies and sharpening my skills as a CS student.  
 - 🧠 Solved over 500 problems on platforms like LeetCode and Codeforces.  
 - 🌐 Built 10+ high-quality websites.  
